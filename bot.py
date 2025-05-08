@@ -6,7 +6,7 @@ from aiogram.utils import executor
 import asyncio
 import os
 
-API_TOKEN = os.getenv("API_TOKEN", "YOUR_TELEGRAM_BOT_TOKEN")
+API_TOKEN = 7909092865:AAE4UNZ5nOnutpVloC-dot8JOvn6tTagK8w", "my_ai_group_bot")
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
