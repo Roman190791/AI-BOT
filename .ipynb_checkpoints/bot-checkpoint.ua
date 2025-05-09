@@ -6,7 +6,7 @@ from aiogram.utils import executor
 import asyncio
 import os
 
-API_TOKEN = 7909092865:AAE4UNZ5nOnutpVloC-dot8JOvn6tTagK8w", "my_ai_group_bot")
+API_TOKEN = "7909092865:AAE4UNZ5nOnutpVloC-dot8JOvn6tTagK8w"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
